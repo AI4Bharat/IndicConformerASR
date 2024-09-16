@@ -34,4 +34,4 @@ git clone https://github.com/AI4Bharat/NeMo.git && cd NeMo && git checkout nemo-
 | te            | [Download](https://objectstore.e2enetworks.net/indic-asr-public/indicConformer/ai4b_indicConformer_te.nemo)        |
 | ur            | [Download](https://objectstore.e2enetworks.net/indic-asr-public/indicConformer/ai4b_indicConformer_ur.nemo)        |
 
-You can also find the Colab link [here](https://colab.research.google.com/drive/1ZQJEhYgLKS72_V4LvNmsyU2zF9pICRvE)
+You can also find the Colab notebool [here](https://colab.research.google.com/drive/1ZQJEhYgLKS72_V4LvNmsyU2zF9pICRvE).
