@@ -35,3 +35,6 @@ git clone https://github.com/AI4Bharat/NeMo.git && cd NeMo && git checkout nemo-
 | ur            | [Download](https://objectstore.e2enetworks.net/indic-asr-public/indicConformer/ai4b_indicConformer_ur.nemo)        |
 
 You can also find the Colab notebook [here](https://colab.research.google.com/drive/1ZQJEhYgLKS72_V4LvNmsyU2zF9pICRvE).
+
+## License
+IndicConformer is released under the MIT license.
