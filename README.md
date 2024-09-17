@@ -9,7 +9,7 @@ git clone https://github.com/AI4Bharat/NeMo.git && cd NeMo && git checkout nemo-
 ```
 
 ## Resources
-| Language Code | Download Link        |
+| Language Code | Model (Download Link)      |
 |---------------|----------------------|
 | as            | [Download](https://objectstore.e2enetworks.net/indic-asr-public/indicConformer/ai4b_indicConformer_as.nemo)        |
 | bn            | [Download](https://objectstore.e2enetworks.net/indic-asr-public/indicConformer/ai4b_indicConformer_bn.nemo)        |
