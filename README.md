@@ -9,6 +9,7 @@ git clone https://github.com/AI4Bharat/NeMo.git && cd NeMo && git checkout nemo-
 ```
 
 ## Resources
+Models can be downloaded from [Huggingface](https://huggingface.co/collections/ai4bharat/indicconformer-66d9e933a243cba4b679cb7f) or using the links below.
 | Language Code | Model (Download Link)      |
 |---------------|----------------------|
 | as            | [Download](https://objectstore.e2enetworks.net/indic-asr-public/indicConformer/ai4b_indicConformer_as.nemo)        |
