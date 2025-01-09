@@ -35,7 +35,7 @@ Models can be downloaded from [Huggingface](https://huggingface.co/collections/a
 | te            | [Download](https://objectstore.e2enetworks.net/indic-asr-public/indicConformer/ai4b_indicConformer_te.nemo)        |
 | ur            | [Download](https://objectstore.e2enetworks.net/indic-asr-public/indicConformer/ai4b_indicConformer_ur.nemo)        |
 
-You can also find the Colab notebook [here](https://colab.research.google.com/drive/1ZQJEhYgLKS72_V4LvNmsyU2zF9pICRvE).
+You can also find the Colab notebook [here](https://colab.research.google.com/drive/1yG_WBXFQV3l11vjpM8fOsrhq6ojtpwKR?usp=sharing#scrollTo=0bnEpaTauedB).
 
 ## License
 IndicConformer is released under the MIT license.
