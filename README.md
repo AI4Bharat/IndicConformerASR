@@ -10,30 +10,32 @@ git clone https://github.com/AI4Bharat/NeMo.git && cd NeMo && git checkout nemo-
 
 ## Resources
 Models can be downloaded from [Huggingface](https://huggingface.co/collections/ai4bharat/indicconformer-66d9e933a243cba4b679cb7f) or using the links below.
-| Language Code | Model (Download Link)      |
-|---------------|----------------------|
-| as            | [Download](https://objectstore.e2enetworks.net/indicconformer/models/indicconformer_stt_as_hybrid_rnnt_large.nemo)        |
-| bn            | [Download](https://objectstore.e2enetworks.net/indicconformer/models/indicconformer_stt_bn_hybrid_rnnt_large.nemo)        |
-| brx            | [Download](https://objectstore.e2enetworks.net/indicconformer/models/indicconformer_stt_brx_hybrid_rnnt_large.nemo)        |
-| doi            | [Download](https://objectstore.e2enetworks.net/indicconformer/models/indicconformer_stt_doi_hybrid_rnnt_large.nemo)        |
-| gu            | [Download](https://objectstore.e2enetworks.net/indicconformer/models/indicconformer_stt_gu_hybrid_rnnt_large.nemo)        |
-| hi            | [Download](https://objectstore.e2enetworks.net/indicconformer/models/indicconformer_stt_hi_hybrid_rnnt_large.nemo)        |
-| kn            | [Download](https://objectstore.e2enetworks.net/indicconformer/models/indicconformer_stt_kn_hybrid_rnnt_large.nemo)        |
-| kok            | [Download](https://objectstore.e2enetworks.net/indicconformer/models/indicconformer_stt_kok_hybrid_rnnt_large.nemo)        |
-| ks            | [Download](https://objectstore.e2enetworks.net/indicconformer/models/indicconformer_stt_ks_hybrid_rnnt_large.nemo)        |
-| mai            | [Download](https://objectstore.e2enetworks.net/indicconformer/models/indicconformer_stt_mai_hybrid_rnnt_large.nemo)        |
-| ml            | [Download](https://objectstore.e2enetworks.net/indicconformer/models/indicconformer_stt_ml_hybrid_rnnt_large.nemo)        |
-| mni            | [Download](https://objectstore.e2enetworks.net/indicconformer/models/indicconformer_stt_mni_hybrid_rnnt_large.nemo)        |
-| mr            | [Download](https://objectstore.e2enetworks.net/indicconformer/models/indicconformer_stt_mr_hybrid_rnnt_large.nemo)        |
-| ne            | [Download](https://objectstore.e2enetworks.net/indicconformer/models/indicconformer_stt_ne_hybrid_rnnt_large.nemo)        |
-| or            | [Download](https://objectstore.e2enetworks.net/indicconformer/models/indicconformer_stt_or_hybrid_rnnt_large.nemo)        |
-| pa            | [Download](https://objectstore.e2enetworks.net/indicconformer/models/indicconformer_stt_pa_hybrid_rnnt_large.nemo)        |
-| sa            | [Download](https://objectstore.e2enetworks.net/indicconformer/models/indicconformer_stt_sa_hybrid_rnnt_large.nemo)        |
-| sat            | [Download](https://objectstore.e2enetworks.net/indicconformer/models/indicconformer_stt_sat_hybrid_rnnt_large.nemo)        |
-| sd            | [Download](https://objectstore.e2enetworks.net/indicconformer/models/indicconformer_stt_sd_hybrid_rnnt_large.nemo)        |
-| ta            | [Download](https://objectstore.e2enetworks.net/indicconformer/models/indicconformer_stt_ta_hybrid_rnnt_large.nemo)        |
-| te            | [Download](https://objectstore.e2enetworks.net/indicconformer/models/indicconformer_stt_te_hybrid_rnnt_large.nemo)        |
-| ur            | [Download](https://objectstore.e2enetworks.net/indicconformer/models/indicconformer_stt_ur_hybrid_rnnt_large.nemo)        |
+| Language       | Language Code | Model (Download Link)      |
+|----------------|---------------|-----------------------------|
+| Assamese       | as            | [Download](https://objectstore.e2enetworks.net/indicconformer/models/indicconformer_stt_as_hybrid_rnnt_large.nemo) |
+| Bengali        | bn            | [Download](https://objectstore.e2enetworks.net/indicconformer/models/indicconformer_stt_bn_hybrid_rnnt_large.nemo) |
+| Bodo           | brx           | [Download](https://objectstore.e2enetworks.net/indicconformer/models/indicconformer_stt_brx_hybrid_rnnt_large.nemo) |
+| Dogri          | doi           | [Download](https://objectstore.e2enetworks.net/indicconformer/models/indicconformer_stt_doi_hybrid_rnnt_large.nemo) |
+| Gujarati       | gu            | [Download](https://objectstore.e2enetworks.net/indicconformer/models/indicconformer_stt_gu_hybrid_rnnt_large.nemo) |
+| Hindi          | hi            | [Download](https://objectstore.e2enetworks.net/indicconformer/models/indicconformer_stt_hi_hybrid_rnnt_large.nemo) |
+| Kannada        | kn            | [Download](https://objectstore.e2enetworks.net/indicconformer/models/indicconformer_stt_kn_hybrid_rnnt_large.nemo) |
+| Konkani        | kok           | [Download](https://objectstore.e2enetworks.net/indicconformer/models/indicconformer_stt_kok_hybrid_rnnt_large.nemo) |
+| Kashmiri       | ks            | [Download](https://objectstore.e2enetworks.net/indicconformer/models/indicconformer_stt_ks_hybrid_rnnt_large.nemo) |
+| Maithili       | mai           | [Download](https://objectstore.e2enetworks.net/indicconformer/models/indicconformer_stt_mai_hybrid_rnnt_large.nemo) |
+| Malayalam      | ml            | [Download](https://objectstore.e2enetworks.net/indicconformer/models/indicconformer_stt_ml_hybrid_rnnt_large.nemo) |
+| Manipuri       | mni           | [Download](https://objectstore.e2enetworks.net/indicconformer/models/indicconformer_stt_mni_hybrid_rnnt_large.nemo) |
+| Marathi        | mr            | [Download](https://objectstore.e2enetworks.net/indicconformer/models/indicconformer_stt_mr_hybrid_rnnt_large.nemo) |
+| Nepali         | ne            | [Download](https://objectstore.e2enetworks.net/indicconformer/models/indicconformer_stt_ne_hybrid_rnnt_large.nemo) |
+| Odia           | or            | [Download](https://objectstore.e2enetworks.net/indicconformer/models/indicconformer_stt_or_hybrid_rnnt_large.nemo) |
+| Punjabi        | pa            | [Download](https://objectstore.e2enetworks.net/indicconformer/models/indicconformer_stt_pa_hybrid_rnnt_large.nemo) |
+| Sanskrit       | sa            | [Download](https://objectstore.e2enetworks.net/indicconformer/models/indicconformer_stt_sa_hybrid_rnnt_large.nemo) |
+| Santali        | sat           | [Download](https://objectstore.e2enetworks.net/indicconformer/models/indicconformer_stt_sat_hybrid_rnnt_large.nemo) |
+| Sindhi         | sd            | [Download](https://objectstore.e2enetworks.net/indicconformer/models/indicconformer_stt_sd_hybrid_rnnt_large.nemo) |
+| Tamil          | ta            | [Download](https://objectstore.e2enetworks.net/indicconformer/models/indicconformer_stt_ta_hybrid_rnnt_large.nemo) |
+| Telugu         | te            | [Download](https://objectstore.e2enetworks.net/indicconformer/models/indicconformer_stt_te_hybrid_rnnt_large.nemo) |
+| Urdu           | ur            | [Download](https://objectstore.e2enetworks.net/indicconformer/models/indicconformer_stt_ur_hybrid_rnnt_large.nemo) |
+
+
 
 You can also find the Colab notebook [here](https://colab.research.google.com/drive/1yG_WBXFQV3l11vjpM8fOsrhq6ojtpwKR?usp=sharing#scrollTo=0bnEpaTauedB).
 
