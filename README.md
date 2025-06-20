@@ -8,7 +8,13 @@ To load, train, fine-tune or play with the model you will need to install [AI4Bh
 git clone https://github.com/AI4Bharat/NeMo.git && cd NeMo && git checkout nemo-v2 && bash reinstall.sh
 ```
 
-## Resources
+## Resources (Multilingual)
+| Size       | Language Code | Model (Download Link)      |
+|----------------|---------------|-----------------------------|
+| 600M           | multi         | [Download](https://objectstore.e2enetworks.net/indicconformer/models/indicconformer_stt_multi_hybrid_rnnt_600m.nemo) |
+
+
+## Resources (Monolingual)
 Models can be downloaded from [Huggingface](https://huggingface.co/collections/ai4bharat/indicconformer-66d9e933a243cba4b679cb7f) or using the links below.
 | Language       | Language Code | Model (Download Link)      |
 |----------------|---------------|-----------------------------|
